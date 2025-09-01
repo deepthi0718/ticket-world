@@ -27,12 +27,10 @@ This project demonstrates responsive front-end design, interactivity, and basic 
 ---
 
 ## 📂 Folder Structure
-Ticket-World/
-├── index.html # Homepage
-├── login.html # Login page
-├── signup.html # Signup page
-├── styles.css # Stylesheet
-├── script.js # Interactivity and authentication logic
+ticket-world/
+└── [multiple HTML files]
+└── [accompanying CSS files]
+└── [supporting JavaScript files]
 └── README.md
 
 ---
